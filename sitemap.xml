@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>https://dinhdiep.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://dinhdiep.github.io/project/bisreadmapper/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,7 +14,25 @@
     
     <url>
     
-      <loc>https://dinhdiep.github.io/talk/example-talk/</loc>
+      <loc>https://dinhdiep.github.io/project/monod2/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://dinhdiep.github.io/project/cgdmr-miner/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://dinhdiep.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,99 +68,7 @@
     
     <url>
     
-      <loc>https://dinhdiep.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://dinhdiep.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -161,47 +87,8 @@
     
     <url>
     
-      <loc>https://dinhdiep.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://dinhdiep.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <loc>https://dinhdiep.github.io/tags/dna-methylation/</loc>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -211,7 +98,7 @@
     <url>
     
       <loc>https://dinhdiep.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-08-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -221,7 +108,6 @@
     <url>
     
       <loc>https://dinhdiep.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
