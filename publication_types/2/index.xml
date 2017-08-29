@@ -1,41 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dinh Diep on Dinh Diep</title>
-    <link>https://dinhdiep.github.io/</link>
-    <description>Recent content in Dinh Diep on Dinh Diep</description>
+    <title>2 on Dinh Diep</title>
+    <link>https://dinhdiep.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Dinh Diep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Dinh Hue Diep</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>BisReadMapper</title>
-      <link>https://dinhdiep.github.io/project/bisreadmapper/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dinhdiep.github.io/project/bisreadmapper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MONOD2</title>
-      <link>https://dinhdiep.github.io/project/monod2/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dinhdiep.github.io/project/monod2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cgDMR-miner</title>
-      <link>https://dinhdiep.github.io/project/cgdmr-miner/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dinhdiep.github.io/project/cgdmr-miner/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA</title>
